@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216609114889",
+    "project_id": "projemanag-69c20",
+    "storage_bucket": "projemanag-69c20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216609114889:android:23c5561664f2f6d15fa1d8",
+        "android_client_info": {
+          "package_name": "com.example.projemanag"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHhf77B9yfOByqwOVnZImuiyuRZpzKOF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
